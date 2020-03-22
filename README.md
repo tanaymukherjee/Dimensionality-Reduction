@@ -3,5 +3,5 @@ In statistics, machine learning, and information theory, dimensionality reductio
 
 ## Key Undertakings:
 
-- Random projection:
+- **Random projection:**
 In mathematics and statistics, random projection is a technique used to reduce the dimensionality of a set of points which lie in Euclidean space. Random projection methods are known for their power, simplicity, and low error rates when compared to other methods. According to experimental results, random projection preserves distances well, but empirical results are sparse They have been applied to many natural language tasks under the name random indexing.
